@@ -9,7 +9,7 @@
    [https://github.com/lucas-an-lin/Little-Dinosaur/releases/tag/Little-Dinosaur](https://github.com/lucas-an-lin/Little-Dinosaur/releases/tag/Little-Dinosaur)
 
 2. **下載遊戲檔案**  
-   在 Releases 頁面中，找到標籤為 `Little-Dinosaur` 的版本，下載提供的 `.exe` 檔案（例如 `Little-Dinosaur.exe`）。
+   在 Releases 頁面中，找到標籤為 `main` 的版本，下載提供的 `.exe` 檔案（例如 `main.exe`）。
 
 3. **運行遊戲**  
    下載完成後，找到您下載的 `.exe` 檔案，雙擊即可啟動遊戲。無需額外安裝，直接開玩！
